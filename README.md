@@ -15,7 +15,7 @@ This repository showcases **Aleph Sigma**, a fully systematic, rule-based strate
 - `requirements.txt` – Python dependencies
 
 ## Contact
-- Email: mahmoudioussama@icloud.com
+- Email: oussamamahmoudi@protonmail.com
 - GitHub: https://github.com/mahmoudi333
 
 *License: MIT*
