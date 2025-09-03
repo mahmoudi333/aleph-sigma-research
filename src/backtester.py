@@ -16,7 +16,7 @@ class Costs:
 class RiskConfig:
     risk_pct: float = 0.01     # 1%
     sl_pips: float = 70.0
-    rr: float = 7.0            # do not disclose your tuned values if you prefer
+    rr: float = 7.0            
     pip_size: float = 0.01
     max_lot_size: float = 100.0
 
