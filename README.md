@@ -27,7 +27,7 @@ This repository showcases **Aleph Sigma**, a fully systematic volatility-spike s
 📊 Trade log (2024–2025): [`docs/aleph_sigma_backtest.xlsx`](docs/aleph_sigma_backtest.xlsx)  
 ## ✅ How to Validate a Trade
 Use `docs/aleph_sigma_backtest.xlsx` (2024–2025):
-1) head over to https://www.dukascopy.com/swiss/english/marketwatch/charts/
+1) Head over to https://www.dukascopy.com/swiss/english/marketwatch/charts/
 2) Select XAUUSD and set the chart to a 1-second timeframe.
 3) Open docs/aleph_sigma_backtest.xlsx and pick any trade (win or loss).
 4) Hover over dukascopy chart and press Alt+H three time to draw horizon price lines entry sl and tp
