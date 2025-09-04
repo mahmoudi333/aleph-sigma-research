@@ -11,6 +11,7 @@ This repository showcases **Aleph Sigma**, a fully systematic, rule-based strate
 
 ## What’s here
 - `docs/Aleph_Sigma_Strategy_Research_Note.pdf` – 2–3 page research note (results & methodology)
+- `docs/aleph_sigma_backtest.xlsx` – 2024-2025 trade data
 - `src/backtester.py` – minimal, sanitized backtester structure
 - `requirements.txt` – Python dependencies
 
