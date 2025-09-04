@@ -1,10 +1,10 @@
-# ⚡ Aleph Sigma — Systematic Backtesting Research (XAUUSD)
+#  Aleph Sigma — Systematic Backtesting Research (XAUUSD)
 
 _A fully systematic, rule-based strategy with conservative backtesting design_
 
 ---
 
-## 📌 Overview
+##  Overview
 This repository showcases **Aleph Sigma**, a fully systematic volatility-spike strategy and a conservative backtesting framework.
 
 - **Systematic, non-discretionary**: signal → arm stop-order at signal price → if touched, trade opens; only one position at a time.  
@@ -16,7 +16,7 @@ This repository showcases **Aleph Sigma**, a fully systematic volatility-spike s
 
 ---
 
-## 📊 Key Results (2020–2025)
+##  Key Results (2020–2025)
 - Profit Factor: **1.2 – 1.4**  
 - Sharpe Ratio: **1.0 – 1.8**  
 - Max Drawdown: **19% – 47%**  
