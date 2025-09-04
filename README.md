@@ -32,7 +32,7 @@ Use `docs/aleph_sigma_backtest.xlsx` (2024–2025):
 3) Open docs/aleph_sigma_backtest.xlsx and pick any trade (win or loss).
 4) Hover over dukascopy chart and press Alt+H three time to draw horizon price lines entry sl and tp
 5) Double-click each line and set the prices to the Entry, Stop-Loss, and Take-Profit from the spreadsheet.
-6) Confirm the **entry second** by using "show custom time range" feature on dukascopy (magnifying glass icon).
+6) Confirm the **entry second** by using "show custom time range" feature on dukascopy (magnifying glass icon) and matching the entry_time there.
 
 ---
 
